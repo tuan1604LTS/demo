@@ -1,3 +1,1 @@
-# hello world 
-# nguyen thanh tuan
-# i am a software engineer
+# say hello from the other side
