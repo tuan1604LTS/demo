@@ -1,2 +1,3 @@
-# see you again
-## it's been along day without you my friend
+# hello world 
+# nguyen thanh tuan
+# i am a software engineer
